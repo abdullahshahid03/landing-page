@@ -1,12 +1,32 @@
-# React + Vite
+# README
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# VirtualR Landing Page
 
-Currently, two official plugins are available:
+This project is a modern, responsive landing page built with React and Tailwind CSS. It showcases the features, workflow, pricing, and community resources for the VirtualR platform.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Responsive design for mobile and desktop
+- Modular React components (Navbar, HeroSection, FeatureSection, WorkFlow, Pricing, Testimonials, Footer)
+- Tailwind CSS for rapid styling
+- Organized constants for navigation and content
+- Easy to customize and extend
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Install dependencies:**
+   ```powershell
+   npm install
+   ```
+2. **Start the development server:**
+   ```powershell
+   npm run dev
+   ```
+3. **Open your browser:**
+   Visit `http://localhost:5173` (or the port shown in your terminal)
+
+
+## Customization
+- Update content in `src/constants/index.jsx` for navigation, features, pricing, and testimonials.
+- Modify styles using Tailwind CSS classes in component files.
+- Add or replace images in `src/assets/`.
+
