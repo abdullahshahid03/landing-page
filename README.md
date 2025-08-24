@@ -1,6 +1,6 @@
 # README
 
-# VirtualR Landing Page
+# Landing Page
 
 This project is a modern, responsive landing page built with React and Tailwind CSS. It showcases the features, workflow, pricing, and community resources for the VirtualR platform.
 
