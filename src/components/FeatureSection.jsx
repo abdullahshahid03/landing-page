@@ -8,7 +8,7 @@ function FeatureSection() {
     >
       <div className="text-center">
         <span
-          className="bg-neutral-900 text-orange-500
+          className="bg-neutral-900 text-blue-500
             rounded-full h-6 text-sm font-medium px-2 py-1 uppercase"
         >
           New
@@ -18,7 +18,7 @@ function FeatureSection() {
              lg:mt-20 tracking-wide"
         >
           Easily build and deploy
-          <span className="bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text">
+          <span className="bg-gradient-to-r from-blue-500 to-blue-900 text-transparent bg-clip-text">
             {" "}
             your applications
           </span>
@@ -30,7 +30,7 @@ function FeatureSection() {
             <div className="flex">
               <div
                 className="flex mx-6 h-10 w-10 p-2 bg-neutral-900
-            text-orange-700 justify-center items-center rounded-full"
+            text-blue-700 justify-center items-center rounded-full"
               >
                 {feature.icon}
               </div>

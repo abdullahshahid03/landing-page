@@ -21,40 +21,40 @@ export const navItems = [
 
 export const testimonials = [
   {
-    user: "John Doe",
-    company: "Stellar Solutions",
+    user: "Alex Carter",
+    company: "NextGen VR",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "VirTuLabVR made our onboarding seamless and our team collaboration more effective than ever before!",
   },
   {
-    user: "Jane Smith",
-    company: "Blue Horizon Technologies",
+    user: "Priya Patel",
+    company: "Immersive Labs",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "The intuitive interface and real-time preview features helped us launch our VR project ahead of schedule.",
   },
   {
-    user: "David Johnson",
-    company: "Quantum Innovations",
+    user: "Liam Nguyen",
+    company: "Visionary Studios",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "We love the built-in templates and analytics dashboard. It’s a game-changer for our workflow.",
   },
   {
-    user: "Ronee Brown",
-    company: "Fusion Dynamics",
+    user: "Sara Kim",
+    company: "MetaWorks",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "The support team is fantastic and the platform is packed with features that save us time every day.",
   },
   {
-    user: "Michael Wilson",
-    company: "Visionary Creations",
+    user: "Carlos Rivera",
+    company: "VR Creators Guild",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "Collaboration tools are top-notch. Our distributed team works together as if we’re in the same room!",
   },
   {
-    user: "Emily Davis",
-    company: "Synergy Systems",
+    user: "Mia Chen",
+    company: "Synergy XR",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "VirTuLabVR’s analytics and multi-platform support helped us reach a wider audience with ease.",
   },
 ];
 
@@ -63,60 +63,60 @@ export const features = [
     icon: <BotMessageSquare />,
     text: "Drag-and-Drop Interface",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Quickly build VR scenes with a simple drag-and-drop editor, no coding required!",
   },
   {
     icon: <Fingerprint />,
     text: "Multi-Platform Compatibility",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Deploy your VR experiences to web, mobile, and headset devices with a single click.",
   },
   {
     icon: <ShieldHalf />,
     text: "Built-in Templates",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Choose from a library of ready-made templates to jumpstart your next VR project.",
   },
   {
     icon: <BatteryCharging />,
     text: "Real-Time Preview",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "See your changes instantly with real-time previews and fast feedback loops.",
   },
   {
     icon: <PlugZap />,
     text: "Collaboration Tools",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Invite teammates and work together live on the same VR environment, anywhere in the world.",
   },
   {
     icon: <GlobeLock />,
     text: "Analytics Dashboard",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "Track user engagement and performance with a powerful, integrated analytics dashboard.",
   },
 ];
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Easy Onboarding",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Get started in minutes with our guided setup and helpful documentation.",
   },
   {
-    title: "Review code without worry",
+    title: "Secure Collaboration",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Work securely with your team using advanced permission controls.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "AI-Powered Assistance",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Boost productivity with smart suggestions and automated workflows.",
   },
   {
-    title: "Share work in minutes",
+    title: "Instant Sharing",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Share your VR creations instantly with a single link.",
   },
 ];
 
@@ -125,30 +125,30 @@ export const pricingOptions = [
     title: "Free",
     price: "$0",
     features: [
-      "Private board sharing",
-      "5 Gb Storage",
-      "Web Analytics",
-      "Private Mode",
+      "Unlimited public projects",
+      "1 GB Storage",
+      "Basic Analytics",
+      "Community Support",
     ],
   },
   {
     title: "Pro",
-    price: "$10",
+    price: "$15",
     features: [
-      "Private board sharing",
-      "10 Gb Storage",
-      "Web Analytics (Advance)",
-      "Private Mode",
+      "Unlimited private projects",
+      "50 GB Storage",
+      "Advanced Analytics",
+      "Priority Support",
     ],
   },
   {
     title: "Enterprise",
-    price: "$200",
+    price: "$299",
     features: [
-      "Private board sharing",
+      "Custom integrations",
       "Unlimited Storage",
-      "High Performance Network",
-      "Private Mode",
+      "Dedicated Account Manager",
+      "Enterprise Security",
     ],
   },
 ];
