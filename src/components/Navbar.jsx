@@ -52,7 +52,7 @@ const Navbar = () => {
                     })}
                 </ul>
                 <div className="flex space-x-6">
-                    <a href="#" className="py-2 px-3 border rounded-md ">Sign In</a>
+                    <a href="#" className="py-2 px-3 border rounded-md">Sign In</a>
                     <a href="#" className="py-2 px-3 bg-blue-600 text-white rounded-md">Sign Up</a>
                 </div>
             </div>
